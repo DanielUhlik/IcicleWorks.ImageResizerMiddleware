@@ -7,6 +7,7 @@
     <Company>Icicle Works</Company>
     <Description>Resize, crop, autorotate, change image quality</Description>
     <PackageId>IcicleWorks.ImageResizerMiddleware</PackageId>
+    <PackageProjectUrl>https://github.com/DanielUhlik/IcicleWorks.ImageResizerMiddleware</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

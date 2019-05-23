@@ -19,8 +19,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 # Usage
 
-<img src="/image.jpg?w=1000&quality=70" />
-
+`<img src="/image.jpg?w=1000&quality=70" />`
 ## Options
 
 Url parameter | Type | Value |
